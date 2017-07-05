@@ -1,0 +1,8 @@
+version: '2'
+services:
+    musubell-neo4j:
+        image: neo4j:3.2.1
+        ports:
+            - 7474:7474
+#        volumes:
+#            - ~/volumes/jhipster/Musubell/neo4/:/data/dbms
