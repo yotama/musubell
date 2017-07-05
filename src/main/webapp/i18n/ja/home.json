@@ -1,0 +1,9 @@
+{
+    "home": {
+        "title": "ようこそ, Musubellへ!",
+        "subtitle": "ここはトップページです。",
+        "logged": {
+            "message": "\"{{username}}\"としてログインしています。"
+        }
+    }
+}
